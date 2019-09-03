@@ -1,0 +1,23 @@
+#setting-scene .button-dashboard {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 30px;
+}
+#setting-scene .button-dashboard button {
+  font-size: 20px;
+  color: white;
+  background-color: #2b627b;
+  height: 50px;
+  width: 7em;
+}
+#setting-scene Input {
+  background-image: linear-gradient(to right, #2a7f86, #066091);
+  border: none;
+}
+#setting-scene .ant-select-selection--single {
+  background-image: linear-gradient(to right, #2a7f86, #066091);
+  border: none;
+}
+
+/*# sourceMappingURL=SettingScene.css.map */

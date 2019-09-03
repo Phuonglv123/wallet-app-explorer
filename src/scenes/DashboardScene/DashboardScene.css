@@ -1,0 +1,34 @@
+#dashboard-scene {
+  margin: 30px;
+}
+#dashboard-scene .header-dash {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  line-height: 1.5;
+}
+#dashboard-scene .header-dash span:first-child {
+  font-size: 20px;
+  font-weight: 500;
+  color: #2b627b;
+}
+#dashboard-scene .header-dash span {
+  font-weight: 600;
+  font-size: 30px;
+  color: #3b3b3b;
+}
+#dashboard-scene .header-dash Input {
+  border: 1px solid #2b627b;
+  width: 350px;
+}
+#dashboard-scene .content-dash {
+  margin: 30px;
+}
+#dashboard-scene .content-dash .header-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/*# sourceMappingURL=DashboardScene.css.map */
